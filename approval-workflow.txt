@@ -1,0 +1,1 @@
+Employee submits leave request; manager approves or rejects it.
